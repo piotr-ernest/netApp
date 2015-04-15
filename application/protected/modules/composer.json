@@ -1,0 +1,5 @@
+{
+    "require": {
+        "nineinchnick/yii-usr": "dev-master"
+    }
+}
