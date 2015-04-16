@@ -6,10 +6,10 @@
  *
  * @author rnest
  */
-class users extends CActiveRecord
+class Post extends CActiveRecord
 {
     public static function model($className = __CLASS__)
     {
-        return parent::model($className);
+        return 'post';
     }
 }

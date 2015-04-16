@@ -163,3 +163,2040 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/favicon.ico
 ---
+2015/04/15 21:27:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 21:27:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 21:27:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 21:27:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 21:27:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 22:18:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "nineinchnick/default/index".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('nineinchnick/de...')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/nineinchnick/default/index
+---
+2015/04/15 22:18:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 22:30:33 [error] [exception.CException] exception 'CException' with message 'Alias "usr.UsrModule" is invalid. Make sure it points to an existing PHP file and the file is readable.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\YiiBase.php:323
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\YiiBase.php(196): YiiBase::import('usr.UsrModule', true)
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModule.php(282): YiiBase::createComponent('usr.UsrModule', 'usr', NULL, Array)
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(337): CModule->getModule('usr')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(276): CWebApplication->createController('usr/default/ind...')
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('usr/default/ind...')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/usr/default/index
+---
+2015/04/15 22:30:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 22:30:51 [error] [exception.CException] exception 'CException' with message 'Alias "usr.UsrModule" is invalid. Make sure it points to an existing PHP file and the file is readable.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\YiiBase.php:323
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\YiiBase.php(196): YiiBase::import('usr.UsrModule', true)
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModule.php(282): YiiBase::createComponent('usr.UsrModule', 'usr', NULL, Array)
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(337): CModule->getModule('usr')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(276): CWebApplication->createController('usr')
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('usr')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/usr
+---
+2015/04/15 22:30:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 22:30:54 [error] [exception.CException] exception 'CException' with message 'Alias "usr.UsrModule" is invalid. Make sure it points to an existing PHP file and the file is readable.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\YiiBase.php:323
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\YiiBase.php(196): YiiBase::import('usr.UsrModule', true)
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModule.php(282): YiiBase::createComponent('usr.UsrModule', 'usr', NULL, Array)
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(337): CModule->getModule('usr')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(276): CWebApplication->createController('usr')
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('usr')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/usr
+---
+2015/04/15 22:30:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 22:31:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 22:31:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 22:31:19 [error] [exception.CException] exception 'CException' with message 'Alias "usr.UsrModule" is invalid. Make sure it points to an existing PHP file and the file is readable.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\YiiBase.php:323
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\YiiBase.php(196): YiiBase::import('usr.UsrModule', true)
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModule.php(282): YiiBase::createComponent('usr.UsrModule', 'usr', NULL, Array)
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(337): CModule->getModule('usr')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(276): CWebApplication->createController('usr')
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('usr')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/index.php/usr
+---
+2015/04/15 22:31:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 22:32:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "UserIdentity".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('UserIdentity')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/UserIdentity
+---
+2015/04/15 22:32:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 22:32:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "userIdentity".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('userIdentity')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/userIdentity
+---
+2015/04/15 22:32:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 22:33:00 [error] [exception.CException] exception 'CException' with message 'Alias "usr.UsrModule" is invalid. Make sure it points to an existing PHP file and the file is readable.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\YiiBase.php:323
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\YiiBase.php(196): YiiBase::import('usr.UsrModule', true)
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModule.php(282): YiiBase::createComponent('usr.UsrModule', 'usr', NULL, Array)
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(337): CModule->getModule('usr')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(276): CWebApplication->createController('usr')
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('usr')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/index.php/usr
+---
+2015/04/15 22:33:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/15 22:33:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "userIdentityClass".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('userIdentityCla...')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/userIdentityClass
+---
+2015/04/15 22:33:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:17:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:17:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:17:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:17:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:20:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:21:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:21:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:21:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:21:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:44:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:44:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:44:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:44:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:44:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:44:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:44:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:50:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 08:51:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:05:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:05:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:05:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:05:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:05:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:05:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:05:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:08:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:09:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:09:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:09:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:09:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:10:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:10:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:10:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:10:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:10:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:14:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:14:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:14:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:14:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:14:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:14:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:14:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:15:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:15:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:15:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:15:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:15:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:15:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:15:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:16:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:17:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:17:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:17:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:17:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:17:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:17:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:17:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:17:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:17:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:17:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:17:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:51:18 [error] [php] Undefined variable: saved (E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php:19)
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): PostController->runAction()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): PostController->runActionWithFilters()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): PostController->run()
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CWebApplication->run()
+REQUEST_URI=/post
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php (19)
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php (13)
+2015/04/16 11:51:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:51:42 [error] [exception.CException] exception 'CException' with message 'Klasa PostForm ma niewłaściwą regułę sprawdzania poprawności. Reguła musi określać atrybuty, które mają zostać zweryfikowane i nazwę walidatora.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php:289
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(260): CModel->createValidators()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(304): CModel->getValidators('title')
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\helpers\CHtml.php(1513): CModel->isAttributeRequired('title')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\widgets\CActiveForm.php(600): CHtml::activeLabelEx(Object(PostForm), 'title', Array)
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\views\post\form.php(23): CActiveForm->labelEx(Object(PostForm), 'title')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(126): require('E:\\PROGRAMY\\xam...')
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\PROGRAMY\\xam...', Array, true)
+#7 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(869): CBaseController->renderFile('E:\\PROGRAMY\\xam...', Array, true)
+#8 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(782): CController->renderPartial('form', Array, true)
+#9 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php(19): CController->render('form', Array)
+#10 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\actions\CInlineAction.php(49): PostController->actionIndex()
+#11 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#13 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): CController->run('')
+#15 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('post')
+#16 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/post
+---
+2015/04/16 11:51:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:53:32 [error] [exception.CException] exception 'CException' with message 'Klasa PostForm ma niewłaściwą regułę sprawdzania poprawności. Reguła musi określać atrybuty, które mają zostać zweryfikowane i nazwę walidatora.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php:289
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(260): CModel->createValidators()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(304): CModel->getValidators('title')
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\helpers\CHtml.php(1513): CModel->isAttributeRequired('title')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\widgets\CActiveForm.php(600): CHtml::activeLabelEx(Object(PostForm), 'title', Array)
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\views\post\form.php(23): CActiveForm->labelEx(Object(PostForm), 'title')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(126): require('E:\\PROGRAMY\\xam...')
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\PROGRAMY\\xam...', Array, true)
+#7 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(869): CBaseController->renderFile('E:\\PROGRAMY\\xam...', Array, true)
+#8 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(782): CController->renderPartial('form', Array, true)
+#9 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php(19): CController->render('form', Array)
+#10 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\actions\CInlineAction.php(49): PostController->actionIndex()
+#11 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#13 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): CController->run('')
+#15 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('post')
+#16 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/post
+---
+2015/04/16 11:53:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:54:10 [error] [exception.CException] exception 'CException' with message 'Klasa PostForm ma niewłaściwą regułę sprawdzania poprawności. Reguła musi określać atrybuty, które mają zostać zweryfikowane i nazwę walidatora.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php:289
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(260): CModel->createValidators()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(304): CModel->getValidators('title')
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\helpers\CHtml.php(1513): CModel->isAttributeRequired('title')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\widgets\CActiveForm.php(600): CHtml::activeLabelEx(Object(PostForm), 'title', Array)
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\views\post\form.php(23): CActiveForm->labelEx(Object(PostForm), 'title')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(126): require('E:\\PROGRAMY\\xam...')
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\PROGRAMY\\xam...', Array, true)
+#7 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(869): CBaseController->renderFile('E:\\PROGRAMY\\xam...', Array, true)
+#8 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(782): CController->renderPartial('form', Array, true)
+#9 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php(19): CController->render('form', Array)
+#10 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\actions\CInlineAction.php(49): PostController->actionIndex()
+#11 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#13 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): CController->run('')
+#15 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('post')
+#16 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/post
+---
+2015/04/16 11:54:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:55:37 [error] [exception.CException] exception 'CException' with message 'Klasa PostForm ma niewłaściwą regułę sprawdzania poprawności. Reguła musi określać atrybuty, które mają zostać zweryfikowane i nazwę walidatora.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php:289
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(260): CModel->createValidators()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(304): CModel->getValidators('tytu\xC5\x82')
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\helpers\CHtml.php(1513): CModel->isAttributeRequired('tytu\xC5\x82')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\widgets\CActiveForm.php(600): CHtml::activeLabelEx(Object(PostForm), 'tytu\xC5\x82', Array)
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\views\post\form.php(23): CActiveForm->labelEx(Object(PostForm), 'tytu\xC5\x82')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(126): require('E:\\PROGRAMY\\xam...')
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\PROGRAMY\\xam...', Array, true)
+#7 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(869): CBaseController->renderFile('E:\\PROGRAMY\\xam...', Array, true)
+#8 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(782): CController->renderPartial('form', Array, true)
+#9 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php(19): CController->render('form', Array)
+#10 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\actions\CInlineAction.php(49): PostController->actionIndex()
+#11 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#13 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): CController->run('')
+#15 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('post')
+#16 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/post
+---
+2015/04/16 11:55:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 11:57:57 [error] [exception.CException] exception 'CException' with message 'Klasa PostForm ma niewłaściwą regułę sprawdzania poprawności. Reguła musi określać atrybuty, które mają zostać zweryfikowane i nazwę walidatora.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php:289
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(260): CModel->createValidators()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(304): CModel->getValidators('title')
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\helpers\CHtml.php(1513): CModel->isAttributeRequired('title')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\widgets\CActiveForm.php(600): CHtml::activeLabelEx(Object(PostForm), 'title', Array)
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\views\post\form.php(23): CActiveForm->labelEx(Object(PostForm), 'title')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(126): require('E:\\PROGRAMY\\xam...')
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\PROGRAMY\\xam...', Array, true)
+#7 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(869): CBaseController->renderFile('E:\\PROGRAMY\\xam...', Array, true)
+#8 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(782): CController->renderPartial('form', Array, true)
+#9 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php(19): CController->render('form', Array)
+#10 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\actions\CInlineAction.php(49): PostController->actionIndex()
+#11 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#13 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): CController->run('')
+#15 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('post')
+#16 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/post
+---
+2015/04/16 11:57:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:03:52 [error] [exception.CException] exception 'CException' with message 'Klasa PostForm ma niewłaściwą regułę sprawdzania poprawności. Reguła musi określać atrybuty, które mają zostać zweryfikowane i nazwę walidatora.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php:289
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(260): CModel->createValidators()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(304): CModel->getValidators('title')
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\helpers\CHtml.php(1513): CModel->isAttributeRequired('title')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\widgets\CActiveForm.php(600): CHtml::activeLabelEx(Object(PostForm), 'title', Array)
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\views\post\form.php(23): CActiveForm->labelEx(Object(PostForm), 'title')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(126): require('E:\\PROGRAMY\\xam...')
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\PROGRAMY\\xam...', Array, true)
+#7 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(869): CBaseController->renderFile('E:\\PROGRAMY\\xam...', Array, true)
+#8 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(782): CController->renderPartial('form', Array, true)
+#9 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php(20): CController->render('form', Array)
+#10 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\actions\CInlineAction.php(49): PostController->actionIndex()
+#11 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#13 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): CController->run('')
+#15 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('post')
+#16 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/post
+---
+2015/04/16 12:03:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:03:56 [error] [exception.CException] exception 'CException' with message 'Klasa PostForm ma niewłaściwą regułę sprawdzania poprawności. Reguła musi określać atrybuty, które mają zostać zweryfikowane i nazwę walidatora.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php:289
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(260): CModel->createValidators()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(304): CModel->getValidators('title')
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\helpers\CHtml.php(1513): CModel->isAttributeRequired('title')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\widgets\CActiveForm.php(600): CHtml::activeLabelEx(Object(PostForm), 'title', Array)
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\views\post\form.php(23): CActiveForm->labelEx(Object(PostForm), 'title')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(126): require('E:\\PROGRAMY\\xam...')
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\PROGRAMY\\xam...', Array, true)
+#7 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(869): CBaseController->renderFile('E:\\PROGRAMY\\xam...', Array, true)
+#8 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(782): CController->renderPartial('form', Array, true)
+#9 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php(20): CController->render('form', Array)
+#10 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\actions\CInlineAction.php(49): PostController->actionIndex()
+#11 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#13 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): CController->run('')
+#15 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('post')
+#16 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/post
+---
+2015/04/16 12:03:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:04:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:04:51 [error] [exception.CException] exception 'CException' with message 'Kontroler PostController nie może znaleźć wymaganego widoku "post".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php:878
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(782): CController->renderPartial('post', Array, true)
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php(20): CController->render('post', Array)
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\actions\CInlineAction.php(49): PostController->actionIndex()
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): CController->run('')
+#7 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('post')
+#8 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#9 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/post
+---
+2015/04/16 12:04:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:05:05 [error] [exception.CException] exception 'CException' with message 'Klasa PostForm ma niewłaściwą regułę sprawdzania poprawności. Reguła musi określać atrybuty, które mają zostać zweryfikowane i nazwę walidatora.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php:289
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(260): CModel->createValidators()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(304): CModel->getValidators('title')
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\helpers\CHtml.php(1513): CModel->isAttributeRequired('title')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\widgets\CActiveForm.php(600): CHtml::activeLabelEx(Object(PostForm), 'title', Array)
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\views\post\form.php(23): CActiveForm->labelEx(Object(PostForm), 'title')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(126): require('E:\\PROGRAMY\\xam...')
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\PROGRAMY\\xam...', Array, true)
+#7 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(869): CBaseController->renderFile('E:\\PROGRAMY\\xam...', Array, true)
+#8 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(782): CController->renderPartial('form', Array, true)
+#9 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php(20): CController->render('form', Array)
+#10 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\actions\CInlineAction.php(49): PostController->actionIndex()
+#11 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#13 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): CController->run('')
+#15 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('post')
+#16 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/post
+---
+2015/04/16 12:05:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:09:20 [error] [exception.CException] exception 'CException' with message 'Klasa PostForm ma niewłaściwą regułę sprawdzania poprawności. Reguła musi określać atrybuty, które mają zostać zweryfikowane i nazwę walidatora.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php:289
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(260): CModel->createValidators()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(304): CModel->getValidators('title')
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\helpers\CHtml.php(1513): CModel->isAttributeRequired('title')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\widgets\CActiveForm.php(600): CHtml::activeLabelEx(Object(PostForm), 'title', Array)
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\views\post\form.php(23): CActiveForm->labelEx(Object(PostForm), 'title')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(126): require('E:\\PROGRAMY\\xam...')
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\PROGRAMY\\xam...', Array, true)
+#7 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(869): CBaseController->renderFile('E:\\PROGRAMY\\xam...', Array, true)
+#8 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(782): CController->renderPartial('form', Array, true)
+#9 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php(20): CController->render('form', Array)
+#10 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\actions\CInlineAction.php(49): PostController->actionIndex()
+#11 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#13 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): CController->run('')
+#15 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('post')
+#16 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/post
+---
+2015/04/16 12:09:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:12:28 [error] [exception.CException] exception 'CException' with message 'Klasa PostForm ma niewłaściwą regułę sprawdzania poprawności. Reguła musi określać atrybuty, które mają zostać zweryfikowane i nazwę walidatora.' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php:289
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(260): CModel->createValidators()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CModel.php(304): CModel->getValidators('title')
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\helpers\CHtml.php(1513): CModel->isAttributeRequired('title')
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\widgets\CActiveForm.php(600): CHtml::activeLabelEx(Object(PostForm), 'title', Array)
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\views\post\form.php(23): CActiveForm->labelEx(Object(PostForm), 'title')
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(126): require('E:\\PROGRAMY\\xam...')
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\PROGRAMY\\xam...', Array, true)
+#7 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(869): CBaseController->renderFile('E:\\PROGRAMY\\xam...', Array, true)
+#8 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(782): CController->renderPartial('form', Array, true)
+#9 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php(20): CController->render('form', Array)
+#10 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\actions\CInlineAction.php(49): PostController->actionIndex()
+#11 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#13 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): CController->run('')
+#15 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('post')
+#16 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/post
+---
+2015/04/16 12:12:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:12:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:12:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:14:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:14:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:14:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:15:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:15:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:15:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:15:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:19:45 [error] [system.db.CDbCommand] Wywołanie CDbCommand::execute() nie powiodło się: SQLSTATE[23502]: Not null violation: 7 BŁĄD:  pusta wartość w kolumnie "date_created" narusza ograniczenie wymaganej wartości
+DETAIL:  Niepoprawne ograniczenia wiersza (1, First title                                                     ..., trololllllooo, null, ja                                                              ...).. Wykonywana instrukcja SQL to: INSERT INTO "post" ("title", "content", "author") VALUES (:yp0, :yp1, :yp2).
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php (20)
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php (13)
+2015/04/16 12:19:45 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand nie zdołał wykonać instrukcji SQL: SQLSTATE[23502]: Not null violation: 7 BŁĄD:  pusta wartość w kolumnie "date_created" narusza ograniczenie wymaganej wartości
+DETAIL:  Niepoprawne ograniczenia wiersza (1, First title                                                     ..., trololllllooo, null, ja                                                              ...).. The SQL statement executed was: INSERT INTO "post" ("title", "content", "author") VALUES (:yp0, :yp1, :yp2)' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\db\CDbCommand.php:358
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\db\ar\CActiveRecord.php(1080): CDbCommand->execute()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\db\ar\CActiveRecord.php(809): CActiveRecord->insert(NULL)
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php(20): CActiveRecord->save()
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\actions\CInlineAction.php(49): PostController->actionIndex()
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): CController->run('')
+#8 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('post')
+#9 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/post
+HTTP_REFERER=http://net.dev/post
+---
+2015/04/16 12:19:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:21:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:21:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:21:44 [error] [php] Indirect modification of overloaded property PostForm::$attributes has no effect (E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php:20)
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): PostController->runAction()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): PostController->runActionWithFilters()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): PostController->run()
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CWebApplication->run()
+REQUEST_URI=/post
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php (20)
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php (13)
+2015/04/16 12:21:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:22:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:22:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:22:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:23:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:24:54 [error] [php] Indirect modification of overloaded property PostForm::$attributes has no effect (E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php:18)
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): PostController->runAction()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): PostController->runActionWithFilters()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): PostController->run()
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CWebApplication->run()
+REQUEST_URI=/post
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php (18)
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php (13)
+2015/04/16 12:24:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:25:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:25:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:25:31 [error] [php] Indirect modification of overloaded property PostForm::$attributes has no effect (E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php:18)
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): PostController->runAction()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): PostController->runActionWithFilters()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): PostController->run()
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CWebApplication->run()
+REQUEST_URI=/post
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php (18)
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php (13)
+2015/04/16 12:25:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:27:00 [warning] [application] Ustawianie niebezpiecznego (ang. unsafe) atrybutu "date_created" klasy "PostForm" nie powiodło się
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php (19)
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php (13)
+2015/04/16 12:27:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:27:48 [warning] [application] Ustawianie niebezpiecznego (ang. unsafe) atrybutu "date_created" klasy "PostForm" nie powiodło się
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php (19)
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php (13)
+2015/04/16 12:27:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:28:09 [warning] [application] Ustawianie niebezpiecznego (ang. unsafe) atrybutu "date_created" klasy "PostForm" nie powiodło się
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php (19)
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php (13)
+2015/04/16 12:28:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:29:12 [error] [php] Indirect modification of overloaded property PostForm::$attributes has no effect (E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php:19)
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): PostController->runAction()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): PostController->runActionWithFilters()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): PostController->run()
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CWebApplication->run()
+REQUEST_URI=/post
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php (19)
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php (13)
+2015/04/16 12:29:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:34:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:35:01 [error] [php] Indirect modification of overloaded property PostForm::$attributes has no effect (E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php:19)
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): PostController->runAction()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): PostController->runActionWithFilters()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): PostController->run()
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CWebApplication->run()
+REQUEST_URI=/post
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php (19)
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php (13)
+2015/04/16 12:35:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:35:29 [error] [php] Indirect modification of overloaded property PostForm::$attributes has no effect (E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php:19)
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(286): PostController->runAction()
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CController.php(265): PostController->runActionWithFilters()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(282): PostController->run()
+#3 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CWebApplication->run()
+REQUEST_URI=/post
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\protected\controllers\PostController.php (19)
+in E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php (13)
+2015/04/16 12:35:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:35:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:38:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:38:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:38:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:41:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:41:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:41:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:42:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:43:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:43:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:44:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:45:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:46:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:46:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:46:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:48:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:48:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:48:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:49:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:49:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:49:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:49:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:49:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:51:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:51:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:51:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:51:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:53:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:53:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:54:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:56:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:57:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:57:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 12:59:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:00:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:00:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:02:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:02:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:02:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:02:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:04:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:04:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:04:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:05:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:07:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:08:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:08:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:11:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:11:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:11:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:12:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:14:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:14:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:14:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:15:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:16:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:17:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:17:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:31:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:33:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:34:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:37:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:37:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:37:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:39:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:39:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:39:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:40:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:41:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:41:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:42:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:42:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:42:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:42:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:43:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:43:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:43:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/04/16 13:47:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\PROGRAMY\xampp\htdocs\NET\net\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 E:\PROGRAMY\xampp\htdocs\NET\net\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\PROGRAMY\xampp\htdocs\NET\net\application\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
