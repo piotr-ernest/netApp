@@ -10,7 +10,8 @@ class m150416_133959_create_post_table extends CDbMigration
             'title' => 'character(255) NOT NULL',
             'content' => 'text NOT NULL',
             'date_created' => 'integer NOT NULL',
-            'author' => 'character(255) NOT NULL'
+            'author' => 'character(255) NOT NULL',
+            'PRIMARY KEY (id)'
         ));
     }
 
