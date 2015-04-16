@@ -56,14 +56,27 @@
     </div>
 </div><hr>
 
-<div class="row">
-    <div class="col-sm-6 col-sm-offset-3">
-        <?php while ($r = each($results)): ?>
-            <div style="box-shadow: 1px 1px 1px #9999ff;">
-                <h3><?php echo $r['value']['title']; ?><span style="color: #999999; font-size: 12px;"><?php echo date('Y-m-d H:i', $r['value']['date_created']) ?></span></h3>
-                <p><?php echo $r['value']['content']; ?></p>
-            </div>
-            <p><?php echo 'Autor: ' . $r['value']['author']; ?></p><hr>
-        <?php endwhile; ?>
+<?php if (!empty($results)): ?>
+
+    <div class="row">
+        <div class="col-sm-6 col-sm-offset-3">
+            <?php while ($r = each($results)): ?>
+                <div style="box-shadow: 1px 1px 1px #9999ff; padding: 10px;">
+                    <h3><?php echo $r['value']['title']; ?><span style="color: #999999; font-size: 12px;"><?php echo date('Y-m-d H:i', $r['value']['date_created']) ?></span></h3>
+                    <p><?php echo $r['value']['content']; ?></p>
+                </div>
+                <p><?php echo 'Autor: ' . $r['value']['author']; ?></p><hr>
+            <?php endwhile; ?>
+        </div>
     </div>
-</div>
+
+<?php else: ?>
+
+    <div class="row">
+        <div class="col-sm-2 col-sm-offset-5">
+            <h3>Brak wpisów.</h3>
+        </div>
+    </div>
+
+<?php endif; ?>
+

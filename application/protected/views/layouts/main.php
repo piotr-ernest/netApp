@@ -29,7 +29,7 @@
                 <div class="col-sm-2 col-sm-offset-5">
                     <h3>Napisz post</h3>
                 </div>
-            </div>
+            </div><hr style="box-shadow: 1px 1px 1px 1px #9999ff;">
 
 
             <div class="row">
